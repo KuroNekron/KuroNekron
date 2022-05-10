@@ -18,4 +18,5 @@
   React: C A R R E G A N D O . . . <br>
   Python: C A R R E G A N D O . . . <br>
   
-  **cada ponto de exp = um m
+  **cada ponto de exp = um mês
+ 
