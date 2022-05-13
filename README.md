@@ -1,6 +1,6 @@
 <en>
   Hi! My name is Mauricio, a.k.a. Kuro. <br>
-  I like to code in HTML and CSS, also I'm learning JavaScript, React and Python. <br>
+  I like to code in HTML and CSS, also I'm learning JavaScript, and React. <br>
   HTML: 6exp; <br>
   CSS: 6exp; <br>
   JavaScript: L O A D I N G . . . <br>
