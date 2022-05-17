@@ -9,7 +9,7 @@ en <br>
 pt-br <br>
   Olá, meu nome é Maurício, também conhecido como Kuro. <br>
   Eu gosto de escrever códigos em HTML e CSS, também estou aprendendo JavaScript, React e Python. <br>
-  HTML: 6 exp (conhecimento intermediário); <br>
+  HTML: 6 meses (conhecimento intermediário); <br>
   CSS: 6 meses (conhecimento intermediário); <br>
   JavaScript: C A R R E G A N D O . . . <br>
   React: C A R R E G A N D O . . . <br>
